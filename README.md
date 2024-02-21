@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my corner of the GitHub universe! I'm [Ramy Ibrahim], a passionate student pursuing a degree in Artificial Intelligence, with a keen interest in becoming a Machine Learning Engineer.
+Welcome to my corner of the GitHub universe! I'm Ramy Ibrahim, a passionate student pursuing a degree in Artificial Intelligence, with a keen interest in becoming a Machine Learning Engineer.
 
 ## About Me ℹ️
 
