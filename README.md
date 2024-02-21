@@ -2,7 +2,7 @@
 
 Welcome to my corner of the GitHub universe! I'm Ramy Ibrahim, a passionate student pursuing a degree in Artificial Intelligence, with a keen interest in becoming a Machine Learning Engineer.
 
-## About Me ℹ️
+## About Me 👾
 
 - 🎓 I'm currently studying Artificial Intelligence at Helwan university.
 - 💻 My primary focus is on machine learning algorithms, deep learning architectures, and data science.
