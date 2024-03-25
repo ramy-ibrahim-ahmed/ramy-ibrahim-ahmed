@@ -1,5 +1,4 @@
-# Hello, World! 👋
-# I'm Ramy Ibrahim aka:: Alien X
+# Hello World!, I'm Ramy Ibrahim aka:: Alien X 👋
 
 Welcome to my corner of the GitHub universe! I'm Ramy Ibrahim, a passionate student pursuing a degree in Artificial Intelligence, with a keen interest in becoming a Machine Learning Engineer.
 
