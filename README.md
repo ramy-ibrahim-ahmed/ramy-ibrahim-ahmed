@@ -23,4 +23,6 @@ I'm always excited to collaborate, brainstorm, and share ideas about AI and soft
 
 - Email: [cnioxxx@gmail.com]
 - LinkedIn: [www.linkedin.com/in/ramy-ibrahim-020304262]
-- 
+
+
+![My Pinterest GIF]("https://github.com/ramy-ibrahim-ahmed/ramy-ibrahim-ahmed/raw/main/Lain Serial Experiments Lain GIF - Lain Serial Experiments Lain Pixel Art - Descubre y comparte GIF.gif") 
