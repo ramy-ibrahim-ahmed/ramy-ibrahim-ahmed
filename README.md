@@ -26,7 +26,7 @@
 I'm always open to collaborating on exciting projects or simply chatting about the latest in AI and software development! Feel free to reach out and let’s make something amazing together.
 
 - **Email**: [ramyibrahim987@gmail.com]
-- **LinkedIn**: [Ramy Ibrahim](https://www.linkedin.com/in/ramy-ibrahim-02030426)
+- **LinkedIn**: [Ramy Ibrahim](https://www.linkedin.com/in/ramy-ibrahim-020304262/)
 
 ---
 
