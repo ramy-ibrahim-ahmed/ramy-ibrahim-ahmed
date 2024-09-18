@@ -8,24 +8,8 @@
 
 - 🎓 **Studying Artificial Intelligence** at *Helwan University*.
 - 💡 Passionate about creating AI solutions and designing scalable, robust systems.
-- 💻 **Software development** is at the heart of everything I do. I love the art of turning complex problems into elegant, efficient solutions, whether I'm crafting AI models or building scalable backend systems.
+- 💻 **Software development** is at the heart of everything I do. I love the art of turning complex problems into elegant, efficient solutions, whether I'm crafting AI models.
 - 🛠️ My focus areas include **Machine Learning**, **Deep Learning**, and **Software Engineering** to deliver intelligent, high-performing applications.
-
----
-
-## 💻 My Love for Software Development
-
-From the moment I wrote my first line of code, I fell in love with the process of building software. There's something incredibly satisfying about starting with an idea and transforming it into a fully functional application. I enjoy the **creative problem-solving** aspect of development—whether it’s designing clean architecture, optimizing performance, or integrating cutting-edge AI into software systems.
-
-My approach to software development is deeply rooted in:
-
-- **Scalability**: Building systems that grow with increasing demands.
-- **Efficiency**: Writing code that performs well and is easy to maintain.
-- **Innovation**: Continuously learning and experimenting with new technologies to create better solutions.
-  
-For me, software development is more than a job; it's a lifelong journey of learning, creating, and improving. 
-
----
 
 ## 🤖 My Interests
 
