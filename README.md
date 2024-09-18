@@ -6,10 +6,10 @@
 
 ## ℹ️ About Me
 
-- 🎓 **Studying Artificial Intelligence** at *Helwan University*.
-- 💡 Passionate about creating AI solutions and designing scalable, robust systems.
-- 💻 **Software development** is at the heart of everything I do. I love the art of turning complex problems into elegant, efficient solutions, whether I'm crafting AI models.
-- 🛠️ My focus areas include **Machine Learning**, **Deep Learning**, and **Software Engineering** to deliver intelligent, high-performing applications.
+- 🎓 Studying Artificial Intelligence at Helwan University.
+- 💡 Passionate about creating smart, scalable, and reliable AI solutions.
+- 💻 I love software development, turning tough problems into efficient & scalabel solutions.
+- 🛠️ Focused on Machine Learning, Deep Learning, and Software Engineering to build intelligent apps.
 
 ## 🤖 My Interests
 
@@ -30,4 +30,15 @@ I'm always open to collaborating on exciting projects or simply chatting about t
 
 ---
 
-![My Pinterest GIF](https://github.com/ramy-ibrahim-ahmed/ramy-ibrahim-ahmed/blob/main/Lain%20Serial%20Experiments%20Lain%20GIF%20-%20Lain%20Serial%20Experiments%20Lain%20Pixel%20Art%20-%20Descubre%20y%20comparte%20GIF.gif?raw=true)
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle; padding-right: 20px; font-size: 16px; color: #333;">
+      <h2>🚀 Aquarius</h2>
+      Me & <a href="https://github.com/MennaHefny25" style="color: #1a73e8; text-decoration: none;">Menna Hefny</a> aspiring on building our own startup called <strong>Aquarius</strong>.
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/ramy-ibrahim-ahmed/ramy-ibrahim-ahmed/blob/main/Lain%20Serial%20Experiments%20Lain%20GIF%20-%20Lain%20Serial%20Experiments%20Lain%20Pixel%20Art%20-%20Descubre%20y%20comparte%20GIF.gif?raw=true" alt="My Pinterest GIF" style="width: 100px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    </td>
+  </tr>
+</table>
+
