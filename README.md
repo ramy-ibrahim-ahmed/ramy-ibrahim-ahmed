@@ -1,13 +1,6 @@
 # Hello world, I'm Ramy Ibrahim
 
-I'm an **AI Engineer** with a passion for building intelligent systems that make a real-world impact. I specialize in:
-
-- Building AI Agents and autonomous workflows  
-- Creating Retrieval-Augmented Generation systems  
-- Staying up to date with the latest AI research and breakthroughs  
-- Writing clean, scalable, and efficient software  
-
-I love the intersection of AI research and practical software engineering, and I’m always exploring new ways to apply cutting-edge models and techniques.
+I’m an AI engineer who crafts intelligent agents and automated workflows, driven by a passion for AI research and software engineering and always staying up‑to‑date with the newest advancements.
 
 ```
      /‾‾‾‾‾‾\
@@ -17,13 +10,13 @@ I love the intersection of AI research and practical software engineering, and I
    |   |   |
    \___|___|
      || ||
-     ^^ ^^
+     ^^ ^^    Autonomous systems that learn, reason, and act.
 ```
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: middle; padding-right: 20px; font-size: 16px; color: #333;">
-      <h2>🚀 Aquarius</h2>
+      <h2>AQJan</h2>
       Me & <a href="https://github.com/MennaHefny25" style="color: #1a73e8; text-decoration: none;">Menna Hefny</a> aspiring on building our own startup called <strong>Aquarius</strong>.
     </td>
     <td style="text-align: center;">
