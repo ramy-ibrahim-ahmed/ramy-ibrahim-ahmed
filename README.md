@@ -14,5 +14,4 @@ I’m an AI engineer who crafts intelligent agents and automated workflows, driv
 ```
 
 Brhuma & MarcI for better life.
-
 ramyibrahim.ai@gmail.com
