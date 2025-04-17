@@ -13,5 +13,5 @@ I’m an AI engineer who crafts intelligent agents and automated workflows, driv
      ^^ ^^    Autonomous systems that learn, reason, and act.
 ```
 
-Brhuma & MarcI for better life.
+Brhuma & MarcI for better life;;
 ramyibrahim.ai@gmail.com
