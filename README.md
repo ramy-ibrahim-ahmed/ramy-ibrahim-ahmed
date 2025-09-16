@@ -1,7 +1,10 @@
-👋 Hello world, I'm Ramy Ibrahim
+ 
 
-I’m an AI Engineer who builds intelligent agents, autonomous systems, and automated workflows. My work bridges AI research with software engineering, always staying up-to-date with the newest advancements in Generative AI, Computer Vision, and Backend Systems.
+# 👋 Hello world, I'm Ramy Ibrahim
 
+I’m an **AI Engineer** who builds **intelligent agents, autonomous systems, and automated workflows**. My work bridges **AI research** with **software engineering**, always staying up-to-date with the newest advancements in **Generative AI, Computer Vision, and Backend Systems**.
+
+```
      /‾‾‾‾‾‾\
     /   -_0  |
    |    ‾‾‾‾‾
@@ -10,30 +13,31 @@ I’m an AI Engineer who builds intelligent agents, autonomous systems, and auto
    \___|___|
      || ||
      ^^ ^^     Autonomous systems that learn, reason, and act.
-
+```
 
 ✨ Currently working on:
 
-🧠 Retrieval-Augmented Generation (RAG) systems & intelligent agents
+* 🧠 Retrieval-Augmented Generation (RAG) systems & intelligent agents
+* 🔍 Computer vision for defect detection & automation
+* ⚡ Backend microservices with FastAPI & Django
+* 🤖 Generative AI applications that integrate LLMs with real-world systems
 
-🔍 Computer vision for defect detection & automation
+🌱 Always exploring **AI x Software Engineering** to deliver scalable, impactful solutions.
 
-⚡ Backend microservices with FastAPI & Django
+---
 
-🤖 Generative AI applications that integrate LLMs with real-world systems
+### 🚀 Featured Projects
 
-🌱 Always exploring AI x Software Engineering to deliver scalable, impactful solutions.
+* **Lutus LMS** – AI-powered learning management system with RAG chat assistant
+* **Secure QR Scanner** – Malware detection system for malicious QR images
+* **Defect Detection** – Computer vision models for manufacturing automation
 
-🚀 Featured Projects
+---
 
-Lutus LMS – AI-powered learning management system with RAG chat assistant
+### 📫 Let’s connect!
 
-Secure QR Scanner – Malware detection system for malicious QR images
+* 🌐 [Portfolio / GitHub](https://github.com/ramy-ibrahim-ahmed)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ramy-jamea-020304262)
 
-Defect Detection – Computer vision models for manufacturing automation
-
-📫 Let’s connect!
-
-🌐 Portfolio / GitHub
-
-💼 LinkedIn
+ 
+ 
