@@ -12,5 +12,3 @@ I’m an AI engineer who crafts intelligent agents and automated workflows, driv
      || ||
      ^^ ^^    Autonomous systems that learn, reason, and act.
 ```
-
-MarcI for better life^^
